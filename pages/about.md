@@ -14,14 +14,10 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+For my SLIS 5030 collection project at the University of Iowa, I curated selected photographs of my nephew, R. at the library or in his natural state of play. At the time of this project, R. is three weeks shy of turning four years old, so he seems to like playing, the library, and playing at the library. These photographs are meant for family and friends who have or have not met R. to enjoy, but also for R. himself when he gets older, as they are a snapshot of what life was like for him as a toddler.   
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
