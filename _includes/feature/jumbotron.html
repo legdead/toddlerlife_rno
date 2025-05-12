@@ -16,7 +16,7 @@
 
 {%- endcomment -%}
 {% assign jumbo_div_id = "j-" | append: include.objectid | slugify | truncate: 12, "" %}
-{% assign jumboId = include.objectid | default: site.data.theme.featured-image %}
+{% assign jumboId = include.coll015 | default: site.data.theme.featured-image %}
 {% if jumboId contains '/' %}
 {% assign jumboSrc = jumboId | relative_url %}
 {% else %}
