@@ -5,14 +5,15 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
-age,Age,true
-relevant_objects, Relevant Objects,true
-context, Context,true
+age,Age,
+relevant_objects, Relevant Objects,
+context, Context,
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+filesize,File Size,
 rights,Rights,
 rightsstatement,Rights Statement,,true
