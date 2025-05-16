@@ -5,6 +5,9 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
+age,Age,true
+relevant_objects, Relevant Objects,true
+context, Context,true
 latitude,Latitude
 longitude,Longitude
 source,Source
